@@ -1,8 +1,8 @@
-# AI Job Market Analyzer 🚀
+# AI Job Market Analyzer 
 
 A comprehensive end-to-end data engineering and machine learning pipeline that analyzes the AI job market. This project extracts job data, cleans it, trains machine learning models to predict salaries, and visualizes hiring trends using an interactive dashboard.
 
-## 🌟 Features
+##  Features
 
 - **ETL Pipeline**: Robust data cleaning and preprocessing to prepare raw job market data.
 - **Machine Learning**: Utilizes Scikit-Learn to train Random Forest and Linear Regression models for accurate salary predictions based on skills and job features.
@@ -14,7 +14,7 @@ A comprehensive end-to-end data engineering and machine learning pipeline that a
   - Remote vs. On-site work ratios
 - **SQL Analytics**: Pre-defined SQL queries for in-depth database analysis.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Market_analyzer/
@@ -30,7 +30,7 @@ Market_analyzer/
 └── instructions.md         # Original execution instructions
 ```
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 Ensure you have Python 3.8+ installed. Install the required dependencies:
 
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 *(Alternatively, you can manually install the main packages: `pip install pandas scikit-learn plotly streamlit`)*
 
-## 🚀 Running the Project
+##  Running the Project
 
 Follow these steps in order to execute the full pipeline:
 
